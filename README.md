@@ -1,6 +1,6 @@
 # Pytea
 
-[Gitea API](https://try.gitea.io/api/swagger) wrapper for Python.
+[Gitea API](https://try.gitea.io/api/swagger) wrapper for Python (3 only).
 
 
 ## Install
