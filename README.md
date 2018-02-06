@@ -5,7 +5,7 @@
 
 ## Install
 
-### From source
+### From sources
 
     python setup.py install
 
